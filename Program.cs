@@ -5,36 +5,8 @@
         static void Main(string[] args)
 
         {
-            //int[] sayılar = { 5, 3, 6, 4, 7, 9, 2, 12 };
-            //int[] sıralıSayılar = new int[sayılar.Length];
-
-            //for (int i = 0; i < sayılar.Length; i++)
-            //{
-            //    if (sayılar[i] != i)
-            //    {
-            //        sıralıSayılar[i] = sayılar[i];
-
-            //        Console.Write(sıralıSayılar[i] + " ");
-
-            //    }
-            //}
-
-            //Decimal sayi = 7999999999999999999;
-            //Math.Cbrt(7999999999999999999);
-
-            //Console.WriteLine(Math.Cbrt(7999999999999999999)  );
-
-            //string başla = Console.CursorTop();
-
-
-
-
+          
             Daragaci();
-
-
-
-
-
 
         }
 
